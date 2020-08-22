@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <form class="form" @submit="onSubmit">
+      <h1 class="title">Log In</h1>
       <div class="field">
         <p class="control">
           <input
