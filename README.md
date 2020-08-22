@@ -2,6 +2,14 @@
 
 ตัวอย่าง Source Code ของคอร์ส Nuxt.js Fundamental
 
+## Demo
+
+![Screenshot](./demo.png)
+
+[Demo on Heroku](https://nuxtjs-portfolio-workshop.herokuapp.com/)
+
+## Links
+
 * [อ่านบทความ](https://devahoy.com/guides/nuxtjs-fundamental/)
 * [Youtube Link](https://youtu.be/Ml5TwG7QDGc)
 
