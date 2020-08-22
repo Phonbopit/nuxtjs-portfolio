@@ -1,12 +1,12 @@
 # Nuxt.js Portfolio
 
-ตัวอย่าง Source Code ของคอร์ส Nuxt.js Fundamental
+ตัวอย่าง Source Code [ของคอร์ส Nuxt.js Fundamental](https://devahoy.com/guides/nuxtjs-fundamental/)
 
 ## Demo
 
-![Screenshot](./demo.png)
-
 [Demo on Heroku](https://nuxtjs-portfolio-workshop.herokuapp.com/)
+
+![Screenshot](./demo.png)
 
 ## Links
 
