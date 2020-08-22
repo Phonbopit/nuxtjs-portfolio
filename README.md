@@ -1,4 +1,11 @@
-# nuxtjs-portfolio
+# Nuxt.js Portfolio
+
+ตัวอย่าง Source Code ของคอร์ส Nuxt.js Fundamental
+
+* [อ่านบทความ](https://devahoy.com/guides/nuxtjs-fundamental/)
+* [Youtube Link](https://youtu.be/Ml5TwG7QDGc)
+
+---
 
 ## Build Setup
 
