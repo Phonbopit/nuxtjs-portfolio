@@ -7,20 +7,20 @@
       </h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://devahoy.com/guides/nuxtjs-fundamental/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          อ่านบทความ
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://www.youtube.com/watch?v=Ml5TwG7QDGc"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="button--red"
         >
-          GitHub
+          ดูบน Youtube
         </a>
       </div>
     </div>
